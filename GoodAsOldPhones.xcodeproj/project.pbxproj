@@ -46,7 +46,7 @@
 		197C21011C6686EE00BCCAE8 = {
 			isa = PBXGroup;
 			children = (
-				49B56B472C213EA000062D55 /* Source */,
+				49B56B482C213F4E00062D55 /* Sources */,
 				197C210B1C6686EE00BCCAE8 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -75,12 +75,12 @@
 			path = GoodAsOldPhones;
 			sourceTree = "<group>";
 		};
-		49B56B472C213EA000062D55 /* Source */ = {
+		49B56B482C213F4E00062D55 /* Sources */ = {
 			isa = PBXGroup;
 			children = (
 				197C210C1C6686EE00BCCAE8 /* GoodAsOldPhones */,
 			);
-			name = Source;
+			path = Sources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
