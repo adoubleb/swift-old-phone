@@ -89,9 +89,17 @@
 		49B56B492C213FF400062D55 /* Tests */ = {
 			isa = PBXGroup;
 			children = (
-				49B56B4A2C215DF700062D55 /* GoodAsOldPhonesTests.swift */,
+				49B56B4C2C215E3D00062D55 /* GoodAsOldPhonesTests */,
 			);
 			path = Tests;
+			sourceTree = "<group>";
+		};
+		49B56B4C2C215E3D00062D55 /* GoodAsOldPhonesTests */ = {
+			isa = PBXGroup;
+			children = (
+				49B56B4A2C215DF700062D55 /* GoodAsOldPhonesTests.swift */,
+			);
+			path = GoodAsOldPhonesTests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
