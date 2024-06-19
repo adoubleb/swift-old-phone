@@ -1,0 +1,45 @@
+{
+  "" : {
+    "const-values" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/build/GoodAsOldPhones.build/Release-iphoneos/GoodAsOldPhones.build/Objects-normal/arm64/GoodAsOldPhones-master.swiftconstvalues",
+    "dependencies" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/build/GoodAsOldPhones.build/Release-iphoneos/GoodAsOldPhones.build/Objects-normal/arm64/GoodAsOldPhones-master.d",
+    "diagnostics" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/build/GoodAsOldPhones.build/Release-iphoneos/GoodAsOldPhones.build/Objects-normal/arm64/GoodAsOldPhones-master.dia",
+    "emit-module-dependencies" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/build/GoodAsOldPhones.build/Release-iphoneos/GoodAsOldPhones.build/Objects-normal/arm64/GoodAsOldPhones-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/build/GoodAsOldPhones.build/Release-iphoneos/GoodAsOldPhones.build/Objects-normal/arm64/GoodAsOldPhones-master-emit-module.dia",
+    "swift-dependencies" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/build/GoodAsOldPhones.build/Release-iphoneos/GoodAsOldPhones.build/Objects-normal/arm64/GoodAsOldPhones-master.swiftdeps"
+  },
+  "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/build/GoodAsOldPhones.build/Release-iphoneos/GoodAsOldPhones.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/GoodAsOldPhones.build/Release-iphoneos/GoodAsOldPhones.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/build/GoodAsOldPhones.build/Release-iphoneos/GoodAsOldPhones.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/build/GoodAsOldPhones.build/Release-iphoneos/GoodAsOldPhones.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  },
+  "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/AppDelegate.swift" : {
+    "index-unit-output-path" : "/GoodAsOldPhones.build/Release-iphoneos/GoodAsOldPhones.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/build/GoodAsOldPhones.build/Release-iphoneos/GoodAsOldPhones.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/build/GoodAsOldPhones.build/Release-iphoneos/GoodAsOldPhones.build/Objects-normal/arm64/AppDelegate.o"
+  },
+  "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/ContactViewController.swift" : {
+    "index-unit-output-path" : "/GoodAsOldPhones.build/Release-iphoneos/GoodAsOldPhones.build/Objects-normal/arm64/ContactViewController.o",
+    "llvm-bc" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/build/GoodAsOldPhones.build/Release-iphoneos/GoodAsOldPhones.build/Objects-normal/arm64/ContactViewController.bc",
+    "object" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/build/GoodAsOldPhones.build/Release-iphoneos/GoodAsOldPhones.build/Objects-normal/arm64/ContactViewController.o"
+  },
+  "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/Product.swift" : {
+    "index-unit-output-path" : "/GoodAsOldPhones.build/Release-iphoneos/GoodAsOldPhones.build/Objects-normal/arm64/Product.o",
+    "llvm-bc" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/build/GoodAsOldPhones.build/Release-iphoneos/GoodAsOldPhones.build/Objects-normal/arm64/Product.bc",
+    "object" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/build/GoodAsOldPhones.build/Release-iphoneos/GoodAsOldPhones.build/Objects-normal/arm64/Product.o"
+  },
+  "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/ProductsTableViewController.swift" : {
+    "index-unit-output-path" : "/GoodAsOldPhones.build/Release-iphoneos/GoodAsOldPhones.build/Objects-normal/arm64/ProductsTableViewController.o",
+    "llvm-bc" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/build/GoodAsOldPhones.build/Release-iphoneos/GoodAsOldPhones.build/Objects-normal/arm64/ProductsTableViewController.bc",
+    "object" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/build/GoodAsOldPhones.build/Release-iphoneos/GoodAsOldPhones.build/Objects-normal/arm64/ProductsTableViewController.o"
+  },
+  "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/ProductViewController.swift" : {
+    "index-unit-output-path" : "/GoodAsOldPhones.build/Release-iphoneos/GoodAsOldPhones.build/Objects-normal/arm64/ProductViewController.o",
+    "llvm-bc" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/build/GoodAsOldPhones.build/Release-iphoneos/GoodAsOldPhones.build/Objects-normal/arm64/ProductViewController.bc",
+    "object" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/build/GoodAsOldPhones.build/Release-iphoneos/GoodAsOldPhones.build/Objects-normal/arm64/ProductViewController.o"
+  },
+  "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Tests/GoodAsOldPhonesTests/GoodAsOldPhonesTests.swift" : {
+    "index-unit-output-path" : "/GoodAsOldPhones.build/Release-iphoneos/GoodAsOldPhones.build/Objects-normal/arm64/GoodAsOldPhonesTests.o",
+    "llvm-bc" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/build/GoodAsOldPhones.build/Release-iphoneos/GoodAsOldPhones.build/Objects-normal/arm64/GoodAsOldPhonesTests.bc",
+    "object" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/build/GoodAsOldPhones.build/Release-iphoneos/GoodAsOldPhones.build/Objects-normal/arm64/GoodAsOldPhonesTests.o"
+  }
+}

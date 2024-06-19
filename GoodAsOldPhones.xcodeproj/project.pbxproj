@@ -17,6 +17,7 @@
 		197C21181C6686EF00BCCAE8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 197C21161C6686EF00BCCAE8 /* LaunchScreen.storyboard */; };
 		49B56B462C2129AD00062D55 /* ArgumentParser in Frameworks */ = {isa = PBXBuildFile; productRef = 49B56B452C2129AD00062D55 /* ArgumentParser */; };
 		49B56B4B2C215DF700062D55 /* GoodAsOldPhonesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49B56B4A2C215DF700062D55 /* GoodAsOldPhonesTests.swift */; };
+		49B56B4F2C216FBA00062D55 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 49B56B4E2C216FBA00062D55 /* XCTest.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		197C21171C6686EF00BCCAE8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		197C21191C6686EF00BCCAE8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		49B56B4A2C215DF700062D55 /* GoodAsOldPhonesTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoodAsOldPhonesTests.swift; sourceTree = "<group>"; };
+		49B56B4E2C216FBA00062D55 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Platforms/iPhoneOS.platform/Developer/Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +40,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				49B56B4F2C216FBA00062D55 /* XCTest.framework in Frameworks */,
 				49B56B462C2129AD00062D55 /* ArgumentParser in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -51,6 +54,7 @@
 				49B56B492C213FF400062D55 /* Tests */,
 				49B56B482C213F4E00062D55 /* Sources */,
 				197C210B1C6686EE00BCCAE8 /* Products */,
+				49B56B4D2C216FBA00062D55 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -102,6 +106,14 @@
 			path = GoodAsOldPhonesTests;
 			sourceTree = "<group>";
 		};
+		49B56B4D2C216FBA00062D55 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				49B56B4E2C216FBA00062D55 /* XCTest.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -133,7 +145,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 1020;
-				ORGANIZATIONNAME = "Code School";
+				ORGANIZATIONNAME = hakam;
 				TargetAttributes = {
 					197C21091C6686EE00BCCAE8 = {
 						CreatedOnToolsVersion = 7.2.1;
@@ -259,9 +271,10 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
+				PROVISIONING_PROFILE_SPECIFIER = com.bitsmedia.GoodAsOldPhones;
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -309,8 +322,9 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
 				MTL_ENABLE_DEBUG_INFO = NO;
+				PROVISIONING_PROFILE_SPECIFIER = com.bitsmedia.GoodAsOldPhones;
 				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
@@ -323,13 +337,17 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = GoodAsOldPhones/Info.plist;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6F8LC8PB57;
+				INFOPLIST_FILE = Sources/GoodAsOldPhones/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.codeschool.GoodAsOldPhones;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hakam.GoodAsOldPhones;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
@@ -338,13 +356,17 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = GoodAsOldPhones/Info.plist;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6F8LC8PB57;
+				INFOPLIST_FILE = Sources/GoodAsOldPhones/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.codeschool.GoodAsOldPhones;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hakam.GoodAsOldPhones;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
 			};
 			name = Release;

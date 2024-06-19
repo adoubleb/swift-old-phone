@@ -1,0 +1,41 @@
+/Users/abdulhakam/Library/Developer/Xcode/DerivedData/GoodAsOldPhones-bggrhjiqvobgmzekzswccqrslzvt/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParser/Completions/BashCompletionsGenerator.swift
+/Users/abdulhakam/Library/Developer/Xcode/DerivedData/GoodAsOldPhones-bggrhjiqvobgmzekzswccqrslzvt/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParser/Completions/CompletionsGenerator.swift
+/Users/abdulhakam/Library/Developer/Xcode/DerivedData/GoodAsOldPhones-bggrhjiqvobgmzekzswccqrslzvt/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParser/Completions/FishCompletionsGenerator.swift
+/Users/abdulhakam/Library/Developer/Xcode/DerivedData/GoodAsOldPhones-bggrhjiqvobgmzekzswccqrslzvt/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParser/Completions/ZshCompletionsGenerator.swift
+/Users/abdulhakam/Library/Developer/Xcode/DerivedData/GoodAsOldPhones-bggrhjiqvobgmzekzswccqrslzvt/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable\ Properties/Argument.swift
+/Users/abdulhakam/Library/Developer/Xcode/DerivedData/GoodAsOldPhones-bggrhjiqvobgmzekzswccqrslzvt/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable\ Properties/ArgumentHelp.swift
+/Users/abdulhakam/Library/Developer/Xcode/DerivedData/GoodAsOldPhones-bggrhjiqvobgmzekzswccqrslzvt/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable\ Properties/ArgumentVisibility.swift
+/Users/abdulhakam/Library/Developer/Xcode/DerivedData/GoodAsOldPhones-bggrhjiqvobgmzekzswccqrslzvt/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable\ Properties/CompletionKind.swift
+/Users/abdulhakam/Library/Developer/Xcode/DerivedData/GoodAsOldPhones-bggrhjiqvobgmzekzswccqrslzvt/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable\ Properties/Errors.swift
+/Users/abdulhakam/Library/Developer/Xcode/DerivedData/GoodAsOldPhones-bggrhjiqvobgmzekzswccqrslzvt/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable\ Properties/Flag.swift
+/Users/abdulhakam/Library/Developer/Xcode/DerivedData/GoodAsOldPhones-bggrhjiqvobgmzekzswccqrslzvt/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable\ Properties/NameSpecification.swift
+/Users/abdulhakam/Library/Developer/Xcode/DerivedData/GoodAsOldPhones-bggrhjiqvobgmzekzswccqrslzvt/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable\ Properties/Option.swift
+/Users/abdulhakam/Library/Developer/Xcode/DerivedData/GoodAsOldPhones-bggrhjiqvobgmzekzswccqrslzvt/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable\ Properties/OptionGroup.swift
+/Users/abdulhakam/Library/Developer/Xcode/DerivedData/GoodAsOldPhones-bggrhjiqvobgmzekzswccqrslzvt/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable\ Types/AsyncParsableCommand.swift
+/Users/abdulhakam/Library/Developer/Xcode/DerivedData/GoodAsOldPhones-bggrhjiqvobgmzekzswccqrslzvt/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable\ Types/CommandConfiguration.swift
+/Users/abdulhakam/Library/Developer/Xcode/DerivedData/GoodAsOldPhones-bggrhjiqvobgmzekzswccqrslzvt/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable\ Types/EnumerableFlag.swift
+/Users/abdulhakam/Library/Developer/Xcode/DerivedData/GoodAsOldPhones-bggrhjiqvobgmzekzswccqrslzvt/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable\ Types/ExpressibleByArgument.swift
+/Users/abdulhakam/Library/Developer/Xcode/DerivedData/GoodAsOldPhones-bggrhjiqvobgmzekzswccqrslzvt/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable\ Types/ParsableArguments.swift
+/Users/abdulhakam/Library/Developer/Xcode/DerivedData/GoodAsOldPhones-bggrhjiqvobgmzekzswccqrslzvt/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable\ Types/ParsableArgumentsValidation.swift
+/Users/abdulhakam/Library/Developer/Xcode/DerivedData/GoodAsOldPhones-bggrhjiqvobgmzekzswccqrslzvt/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable\ Types/ParsableCommand.swift
+/Users/abdulhakam/Library/Developer/Xcode/DerivedData/GoodAsOldPhones-bggrhjiqvobgmzekzswccqrslzvt/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/ArgumentDecoder.swift
+/Users/abdulhakam/Library/Developer/Xcode/DerivedData/GoodAsOldPhones-bggrhjiqvobgmzekzswccqrslzvt/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/ArgumentDefinition.swift
+/Users/abdulhakam/Library/Developer/Xcode/DerivedData/GoodAsOldPhones-bggrhjiqvobgmzekzswccqrslzvt/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/ArgumentSet.swift
+/Users/abdulhakam/Library/Developer/Xcode/DerivedData/GoodAsOldPhones-bggrhjiqvobgmzekzswccqrslzvt/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/CommandParser.swift
+/Users/abdulhakam/Library/Developer/Xcode/DerivedData/GoodAsOldPhones-bggrhjiqvobgmzekzswccqrslzvt/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/InputKey.swift
+/Users/abdulhakam/Library/Developer/Xcode/DerivedData/GoodAsOldPhones-bggrhjiqvobgmzekzswccqrslzvt/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/InputOrigin.swift
+/Users/abdulhakam/Library/Developer/Xcode/DerivedData/GoodAsOldPhones-bggrhjiqvobgmzekzswccqrslzvt/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/Name.swift
+/Users/abdulhakam/Library/Developer/Xcode/DerivedData/GoodAsOldPhones-bggrhjiqvobgmzekzswccqrslzvt/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/Parsed.swift
+/Users/abdulhakam/Library/Developer/Xcode/DerivedData/GoodAsOldPhones-bggrhjiqvobgmzekzswccqrslzvt/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/ParsedValues.swift
+/Users/abdulhakam/Library/Developer/Xcode/DerivedData/GoodAsOldPhones-bggrhjiqvobgmzekzswccqrslzvt/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/ParserError.swift
+/Users/abdulhakam/Library/Developer/Xcode/DerivedData/GoodAsOldPhones-bggrhjiqvobgmzekzswccqrslzvt/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/SplitArguments.swift
+/Users/abdulhakam/Library/Developer/Xcode/DerivedData/GoodAsOldPhones-bggrhjiqvobgmzekzswccqrslzvt/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParser/Usage/DumpHelpGenerator.swift
+/Users/abdulhakam/Library/Developer/Xcode/DerivedData/GoodAsOldPhones-bggrhjiqvobgmzekzswccqrslzvt/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParser/Usage/HelpCommand.swift
+/Users/abdulhakam/Library/Developer/Xcode/DerivedData/GoodAsOldPhones-bggrhjiqvobgmzekzswccqrslzvt/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParser/Usage/HelpGenerator.swift
+/Users/abdulhakam/Library/Developer/Xcode/DerivedData/GoodAsOldPhones-bggrhjiqvobgmzekzswccqrslzvt/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParser/Usage/MessageInfo.swift
+/Users/abdulhakam/Library/Developer/Xcode/DerivedData/GoodAsOldPhones-bggrhjiqvobgmzekzswccqrslzvt/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParser/Usage/UsageGenerator.swift
+/Users/abdulhakam/Library/Developer/Xcode/DerivedData/GoodAsOldPhones-bggrhjiqvobgmzekzswccqrslzvt/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParser/Utilities/CollectionExtensions.swift
+/Users/abdulhakam/Library/Developer/Xcode/DerivedData/GoodAsOldPhones-bggrhjiqvobgmzekzswccqrslzvt/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParser/Utilities/Platform.swift
+/Users/abdulhakam/Library/Developer/Xcode/DerivedData/GoodAsOldPhones-bggrhjiqvobgmzekzswccqrslzvt/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParser/Utilities/SequenceExtensions.swift
+/Users/abdulhakam/Library/Developer/Xcode/DerivedData/GoodAsOldPhones-bggrhjiqvobgmzekzswccqrslzvt/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParser/Utilities/StringExtensions.swift
+/Users/abdulhakam/Library/Developer/Xcode/DerivedData/GoodAsOldPhones-bggrhjiqvobgmzekzswccqrslzvt/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParser/Utilities/Tree.swift

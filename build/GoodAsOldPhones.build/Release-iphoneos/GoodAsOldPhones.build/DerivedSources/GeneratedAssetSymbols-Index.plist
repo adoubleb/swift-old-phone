@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colors</key>
+	<array/>
+	<key>images</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameButtonAddtocart</string>
+			<key>relativePath</key>
+			<string>./button-addtocart.imageset</string>
+			<key>swiftSymbol</key>
+			<string>buttonAddtocart</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameHeaderContact</string>
+			<key>relativePath</key>
+			<string>./header-contact.imageset</string>
+			<key>swiftSymbol</key>
+			<string>headerContact</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameIconAboutEmail</string>
+			<key>relativePath</key>
+			<string>./icon-about-email.imageset</string>
+			<key>swiftSymbol</key>
+			<string>iconAboutEmail</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameIconAboutPhone</string>
+			<key>relativePath</key>
+			<string>./icon-about-phone.imageset</string>
+			<key>swiftSymbol</key>
+			<string>iconAboutPhone</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameIconAboutWebsite</string>
+			<key>relativePath</key>
+			<string>./icon-about-website.imageset</string>
+			<key>swiftSymbol</key>
+			<string>iconAboutWebsite</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameImageCell1</string>
+			<key>relativePath</key>
+			<string>./image-cell1.imageset</string>
+			<key>swiftSymbol</key>
+			<string>imageCell1</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameImageCell2</string>
+			<key>relativePath</key>
+			<string>./image-cell2.imageset</string>
+			<key>swiftSymbol</key>
+			<string>imageCell2</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameImageCell3</string>
+			<key>relativePath</key>
+			<string>./image-cell3.imageset</string>
+			<key>swiftSymbol</key>
+			<string>imageCell3</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameImageCell4</string>
+			<key>relativePath</key>
+			<string>./image-cell4.imageset</string>
+			<key>swiftSymbol</key>
+			<string>imageCell4</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNamePhoneFullscreen1</string>
+			<key>relativePath</key>
+			<string>./phone-fullscreen1.imageset</string>
+			<key>swiftSymbol</key>
+			<string>phoneFullscreen1</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNamePhoneFullscreen2</string>
+			<key>relativePath</key>
+			<string>./phone-fullscreen2.imageset</string>
+			<key>swiftSymbol</key>
+			<string>phoneFullscreen2</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNamePhoneFullscreen3</string>
+			<key>relativePath</key>
+			<string>./phone-fullscreen3.imageset</string>
+			<key>swiftSymbol</key>
+			<string>phoneFullscreen3</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNamePhoneFullscreen4</string>
+			<key>relativePath</key>
+			<string>./phone-fullscreen4.imageset</string>
+			<key>swiftSymbol</key>
+			<string>phoneFullscreen4</string>
+		</dict>
+	</array>
+	<key>symbols</key>
+	<array/>
+</dict>
+</plist>

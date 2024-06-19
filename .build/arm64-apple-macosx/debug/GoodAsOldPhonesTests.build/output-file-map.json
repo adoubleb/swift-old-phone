@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhonesTests.build/master.swiftdeps"
+  },
+  "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Tests/GoodAsOldPhonesTests/GoodAsOldPhonesTests.swift": {
+    "dependencies": "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhonesTests.build/GoodAsOldPhonesTests.d",
+    "object": "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhonesTests.build/GoodAsOldPhonesTests.swift.o",
+    "swiftmodule": "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhonesTests.build/GoodAsOldPhonesTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhonesTests.build/GoodAsOldPhonesTests.swiftdeps"
+  }
+}

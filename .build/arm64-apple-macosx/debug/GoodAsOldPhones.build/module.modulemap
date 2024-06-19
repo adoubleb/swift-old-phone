@@ -1,0 +1,4 @@
+module GoodAsOldPhones {
+    header "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/GoodAsOldPhones-Swift.h"
+    requires objc
+}

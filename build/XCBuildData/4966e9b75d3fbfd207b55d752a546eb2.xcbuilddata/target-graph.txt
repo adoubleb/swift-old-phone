@@ -1,0 +1,9 @@
+Target dependency graph (4 targets)
+Target 'GoodAsOldPhones' in project 'GoodAsOldPhones'
+➜ Explicit dependency on target 'ArgumentParser' in project 'swift-argument-parser'
+Target 'ArgumentParser' in project 'swift-argument-parser'
+➜ Explicit dependency on target 'ArgumentParser' in project 'swift-argument-parser'
+➜ Explicit dependency on target 'ArgumentParserToolInfo' in project 'swift-argument-parser'
+Target 'ArgumentParser' in project 'swift-argument-parser'
+➜ Explicit dependency on target 'ArgumentParserToolInfo' in project 'swift-argument-parser'
+Target 'ArgumentParserToolInfo' in project 'swift-argument-parser' (no dependencies)

@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "f2dc7b8c950d8471eb8f90c71b377a0f5d8b12bc1bc6ce00e4c28201db568bbd"
+build_start_time: [1718761989, 785344000]
+build_end_time: [1718761996, 967780000]
+inputs:
+  "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/AppDelegate.swift": [1718674207, 582280636]
+  "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/ContactViewController.swift": [1718674207, 598661184]
+  "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/Product.swift": [1718674207, 598968863]
+  "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/ProductViewController.swift": [1718674207, 599293232]
+  "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/ProductsTableViewController.swift": [1718674207, 599142432]
+  "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Tests/GoodAsOldPhonesTests/GoodAsOldPhonesTests.swift": [1718691452, 139141373]
+  ? "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/build/GoodAsOldPhones.build/Release-iphoneos/GoodAsOldPhones.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1718761989, 771482523]

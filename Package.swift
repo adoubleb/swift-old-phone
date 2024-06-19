@@ -5,7 +5,6 @@ let package = Package(
     name: "GoodAsOldPhones",
     defaultLocalization: "en",
     platforms: [
-        .macOS(.v10_15),
         .iOS(.v13)
     ],
     products: [

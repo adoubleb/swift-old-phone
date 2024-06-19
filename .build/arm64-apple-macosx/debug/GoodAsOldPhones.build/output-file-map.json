@@ -1,0 +1,41 @@
+{
+  "": {
+    "swift-dependencies": "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/master.swiftdeps"
+  },
+  "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/AppDelegate.swift": {
+    "dependencies": "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/AppDelegate.d",
+    "object": "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/AppDelegate.swift.o",
+    "swiftmodule": "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/AppDelegate~partial.swiftmodule",
+    "swift-dependencies": "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/AppDelegate.swiftdeps"
+  },
+  "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/ContactViewController.swift": {
+    "dependencies": "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/ContactViewController.d",
+    "object": "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/ContactViewController.swift.o",
+    "swiftmodule": "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/ContactViewController~partial.swiftmodule",
+    "swift-dependencies": "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/ContactViewController.swiftdeps"
+  },
+  "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/Product.swift": {
+    "dependencies": "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/Product.d",
+    "object": "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/Product.swift.o",
+    "swiftmodule": "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/Product~partial.swiftmodule",
+    "swift-dependencies": "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/Product.swiftdeps"
+  },
+  "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/ProductViewController.swift": {
+    "dependencies": "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/ProductViewController.d",
+    "object": "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/ProductViewController.swift.o",
+    "swiftmodule": "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/ProductViewController~partial.swiftmodule",
+    "swift-dependencies": "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/ProductViewController.swiftdeps"
+  },
+  "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/ProductsTableViewController.swift": {
+    "dependencies": "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/ProductsTableViewController.d",
+    "object": "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/ProductsTableViewController.swift.o",
+    "swiftmodule": "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/ProductsTableViewController~partial.swiftmodule",
+    "swift-dependencies": "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/ProductsTableViewController.swiftdeps"
+  },
+  "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/DerivedSources/resource_bundle_accessor.swift": {
+    "dependencies": "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/resource_bundle_accessor.d",
+    "object": "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/resource_bundle_accessor.swift.o",
+    "swiftmodule": "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/resource_bundle_accessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/resource_bundle_accessor.swiftdeps"
+  }
+}

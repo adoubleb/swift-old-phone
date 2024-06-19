@@ -1,0 +1,1687 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhonesPackageTests.xctest/Contents/MacOS/GoodAsOldPhonesPackageTests",
+      "packagePath" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy",
+      "productName" : "GoodAsOldPhonesPackageTests"
+    }
+  ],
+  "copyCommands" : {
+    "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire_Alamofire.bundle/PrivacyInfo.xcprivacy" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/PrivacyInfo.xcprivacy"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire_Alamofire.bundle/PrivacyInfo.xcprivacy"
+        }
+      ]
+    },
+    "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones_GoodAsOldPhones.bundle/Base.lproj/LaunchScreen.storyboard" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/Base.lproj/LaunchScreen.storyboard"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones_GoodAsOldPhones.bundle/Base.lproj/LaunchScreen.storyboard"
+        }
+      ]
+    },
+    "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones_GoodAsOldPhones.bundle/Base.lproj/Main.storyboard" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/Base.lproj/Main.storyboard"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones_GoodAsOldPhones.bundle/Base.lproj/Main.storyboard"
+        }
+      ]
+    },
+    "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones_GoodAsOldPhones.bundle/Info.plist" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/Info.plist"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones_GoodAsOldPhones.bundle/Info.plist"
+        }
+      ]
+    }
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.Alamofire-debug.module" : {
+      "executable" : "/Applications/Xcode-15.4.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/sources",
+      "importPath" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Alamofire.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/AFError.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/DataRequest.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/DataStreamRequest.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/DownloadRequest.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/HTTPHeaders.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/HTTPMethod.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/Notifications.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/ParameterEncoder.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/ParameterEncoding.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/Protected.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/Request.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/RequestTaskMap.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/Response.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/Session.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/SessionDelegate.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/URLConvertible+URLRequestConvertible.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/UploadRequest.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/WebSocketRequest.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Extensions/DispatchQueue+Alamofire.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Extensions/OperationQueue+Alamofire.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Extensions/Result+Alamofire.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Extensions/StringEncoding+Alamofire.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Extensions/URLRequest+Alamofire.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Extensions/URLSessionConfiguration+Alamofire.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/AlamofireExtended.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/AuthenticationInterceptor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/CachedResponseHandler.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/Combine.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/Concurrency.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/EventMonitor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/MultipartFormData.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/MultipartUpload.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/NetworkReachabilityManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/RedirectHandler.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/RequestCompression.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/RequestInterceptor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/ResponseSerialization.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/RetryPolicy.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/ServerTrustEvaluation.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/URLEncodedFormEncoder.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/Validation.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/DerivedSources/resource_bundle_accessor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/swift-version-33747A42983211AE.txt"
+        },
+        {
+          "kind" : "virtual",
+          "name" : "<Alamofire-debug.module-resources>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "Alamofire",
+      "moduleOutputPath" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.swiftmodule",
+      "objects" : [
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/Alamofire.swift.o",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/AFError.swift.o",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/DataRequest.swift.o",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/DataStreamRequest.swift.o",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/DownloadRequest.swift.o",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/HTTPHeaders.swift.o",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/HTTPMethod.swift.o",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/Notifications.swift.o",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/ParameterEncoder.swift.o",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/ParameterEncoding.swift.o",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/Protected.swift.o",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/Request.swift.o",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/RequestTaskMap.swift.o",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/Response.swift.o",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/Session.swift.o",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/SessionDelegate.swift.o",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/URLConvertible+URLRequestConvertible.swift.o",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/UploadRequest.swift.o",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/WebSocketRequest.swift.o",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/DispatchQueue+Alamofire.swift.o",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/OperationQueue+Alamofire.swift.o",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/Result+Alamofire.swift.o",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/StringEncoding+Alamofire.swift.o",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/URLRequest+Alamofire.swift.o",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/URLSessionConfiguration+Alamofire.swift.o",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/AlamofireExtended.swift.o",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/AuthenticationInterceptor.swift.o",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/CachedResponseHandler.swift.o",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/Combine.swift.o",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/Concurrency.swift.o",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/EventMonitor.swift.o",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/MultipartFormData.swift.o",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/MultipartUpload.swift.o",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/NetworkReachabilityManager.swift.o",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/RedirectHandler.swift.o",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/RequestCompression.swift.o",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/RequestInterceptor.swift.o",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/ResponseSerialization.swift.o",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/RetryPolicy.swift.o",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/ServerTrustEvaluation.swift.o",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/URLEncodedFormEncoder.swift.o",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/Validation.swift.o",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/resource_bundle_accessor.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/Alamofire-Swift.h",
+        "-color-diagnostics",
+        "-sdk",
+        "/Applications/Xcode-15.4.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk",
+        "-F",
+        "/Applications/Xcode-15.4.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode-15.4.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode-15.4.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode-15.4.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode-15.4.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-suppress-warnings",
+        "-package-name",
+        "alamofire"
+      ],
+      "outputFileMapPath" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/Alamofire.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/AFError.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/DataRequest.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/DataStreamRequest.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/DownloadRequest.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/HTTPHeaders.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/HTTPMethod.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/Notifications.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/ParameterEncoder.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/ParameterEncoding.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/Protected.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/Request.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/RequestTaskMap.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/Response.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/Session.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/SessionDelegate.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/URLConvertible+URLRequestConvertible.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/UploadRequest.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/WebSocketRequest.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/DispatchQueue+Alamofire.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/OperationQueue+Alamofire.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/Result+Alamofire.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/StringEncoding+Alamofire.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/URLRequest+Alamofire.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/URLSessionConfiguration+Alamofire.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/AlamofireExtended.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/AuthenticationInterceptor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/CachedResponseHandler.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/Combine.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/Concurrency.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/EventMonitor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/MultipartFormData.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/MultipartUpload.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/NetworkReachabilityManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/RedirectHandler.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/RequestCompression.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/RequestInterceptor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/ResponseSerialization.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/RetryPolicy.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/ServerTrustEvaluation.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/URLEncodedFormEncoder.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/Validation.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/resource_bundle_accessor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Alamofire.swift",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/AFError.swift",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/DataRequest.swift",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/DataStreamRequest.swift",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/DownloadRequest.swift",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/HTTPHeaders.swift",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/HTTPMethod.swift",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/Notifications.swift",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/ParameterEncoder.swift",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/ParameterEncoding.swift",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/Protected.swift",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/Request.swift",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/RequestTaskMap.swift",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/Response.swift",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/Session.swift",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/SessionDelegate.swift",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/URLConvertible+URLRequestConvertible.swift",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/UploadRequest.swift",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/WebSocketRequest.swift",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Extensions/DispatchQueue+Alamofire.swift",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Extensions/OperationQueue+Alamofire.swift",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Extensions/Result+Alamofire.swift",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Extensions/StringEncoding+Alamofire.swift",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Extensions/URLRequest+Alamofire.swift",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Extensions/URLSessionConfiguration+Alamofire.swift",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/AlamofireExtended.swift",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/AuthenticationInterceptor.swift",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/CachedResponseHandler.swift",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/Combine.swift",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/Concurrency.swift",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/EventMonitor.swift",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/MultipartFormData.swift",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/MultipartUpload.swift",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/NetworkReachabilityManager.swift",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/RedirectHandler.swift",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/RequestCompression.swift",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/RequestInterceptor.swift",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/ResponseSerialization.swift",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/RetryPolicy.swift",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/ServerTrustEvaluation.swift",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/URLEncodedFormEncoder.swift",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/Validation.swift",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/DerivedSources/resource_bundle_accessor.swift"
+      ],
+      "tempsPath" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.GoodAsOldPhones-debug.module" : {
+      "executable" : "/Applications/Xcode-15.4.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/sources",
+      "importPath" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/AppDelegate.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/ContactViewController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/Product.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/ProductViewController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/ProductsTableViewController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/DerivedSources/resource_bundle_accessor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/swift-version-33747A42983211AE.txt"
+        },
+        {
+          "kind" : "virtual",
+          "name" : "<GoodAsOldPhones-debug.module-resources>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "GoodAsOldPhones",
+      "moduleOutputPath" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.swiftmodule",
+      "objects" : [
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/AppDelegate.swift.o",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/ContactViewController.swift.o",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/Product.swift.o",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/ProductViewController.swift.o",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/ProductsTableViewController.swift.o",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/resource_bundle_accessor.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/GoodAsOldPhones-Swift.h",
+        "-color-diagnostics",
+        "-sdk",
+        "/Applications/Xcode-15.4.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk",
+        "-F",
+        "/Applications/Xcode-15.4.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode-15.4.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode-15.4.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode-15.4.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode-15.4.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g"
+      ],
+      "outputFileMapPath" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/AppDelegate.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/ContactViewController.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/Product.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/ProductViewController.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/ProductsTableViewController.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/resource_bundle_accessor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/AppDelegate.swift",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/ContactViewController.swift",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/Product.swift",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/ProductViewController.swift",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/ProductsTableViewController.swift",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/DerivedSources/resource_bundle_accessor.swift"
+      ],
+      "tempsPath" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.GoodAsOldPhonesTests-debug.module" : {
+      "executable" : "/Applications/Xcode-15.4.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhonesTests.build/sources",
+      "importPath" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Tests/GoodAsOldPhonesTests/GoodAsOldPhonesTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/swift-version-33747A42983211AE.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhonesTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "GoodAsOldPhonesTests",
+      "moduleOutputPath" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhonesTests.swiftmodule",
+      "objects" : [
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhonesTests.build/GoodAsOldPhonesTests.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx13.0",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-color-diagnostics",
+        "-sdk",
+        "/Applications/Xcode-15.4.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk",
+        "-F",
+        "/Applications/Xcode-15.4.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode-15.4.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode-15.4.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode-15.4.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode-15.4.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g"
+      ],
+      "outputFileMapPath" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhonesTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhonesTests.build/GoodAsOldPhonesTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhonesTests.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Tests/GoodAsOldPhonesTests/GoodAsOldPhonesTests.swift"
+      ],
+      "tempsPath" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhonesTests.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "Alamofire" : [
+      "/Applications/Xcode-15.4.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "Alamofire",
+      "-package-name",
+      "alamofire",
+      "-incremental",
+      "-c",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Alamofire.swift",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/AFError.swift",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/DataRequest.swift",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/DataStreamRequest.swift",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/DownloadRequest.swift",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/HTTPHeaders.swift",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/HTTPMethod.swift",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/Notifications.swift",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/ParameterEncoder.swift",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/ParameterEncoding.swift",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/Protected.swift",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/Request.swift",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/RequestTaskMap.swift",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/Response.swift",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/Session.swift",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/SessionDelegate.swift",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/URLConvertible+URLRequestConvertible.swift",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/UploadRequest.swift",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/WebSocketRequest.swift",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Extensions/DispatchQueue+Alamofire.swift",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Extensions/OperationQueue+Alamofire.swift",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Extensions/Result+Alamofire.swift",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Extensions/StringEncoding+Alamofire.swift",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Extensions/URLRequest+Alamofire.swift",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Extensions/URLSessionConfiguration+Alamofire.swift",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/AlamofireExtended.swift",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/AuthenticationInterceptor.swift",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/CachedResponseHandler.swift",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/Combine.swift",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/Concurrency.swift",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/EventMonitor.swift",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/MultipartFormData.swift",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/MultipartUpload.swift",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/NetworkReachabilityManager.swift",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/RedirectHandler.swift",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/RequestCompression.swift",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/RequestInterceptor.swift",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/ResponseSerialization.swift",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/RetryPolicy.swift",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/ServerTrustEvaluation.swift",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/URLEncodedFormEncoder.swift",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/Validation.swift",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/DerivedSources/resource_bundle_accessor.swift",
+      "-I",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-swift-version",
+      "5",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/Alamofire-Swift.h",
+      "-color-diagnostics",
+      "-sdk",
+      "/Applications/Xcode-15.4.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk",
+      "-F",
+      "/Applications/Xcode-15.4.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode-15.4.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode-15.4.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode-15.4.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode-15.4.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-suppress-warnings",
+      "-package-name",
+      "alamofire",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode-15.4.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "GoodAsOldPhones" : [
+      "/Applications/Xcode-15.4.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "GoodAsOldPhones",
+      "-incremental",
+      "-c",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/AppDelegate.swift",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/ContactViewController.swift",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/Product.swift",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/ProductViewController.swift",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/ProductsTableViewController.swift",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/DerivedSources/resource_bundle_accessor.swift",
+      "-I",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-swift-version",
+      "5",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/GoodAsOldPhones-Swift.h",
+      "-color-diagnostics",
+      "-sdk",
+      "/Applications/Xcode-15.4.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk",
+      "-F",
+      "/Applications/Xcode-15.4.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode-15.4.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode-15.4.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode-15.4.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode-15.4.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode-15.4.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "GoodAsOldPhonesTests" : [
+      "/Applications/Xcode-15.4.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "GoodAsOldPhonesTests",
+      "-incremental",
+      "-c",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Tests/GoodAsOldPhonesTests/GoodAsOldPhonesTests.swift",
+      "-I",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug",
+      "-target",
+      "arm64-apple-macosx13.0",
+      "-swift-version",
+      "5",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-color-diagnostics",
+      "-sdk",
+      "/Applications/Xcode-15.4.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk",
+      "-F",
+      "/Applications/Xcode-15.4.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode-15.4.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode-15.4.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode-15.4.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode-15.4.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode-15.4.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "Alamofire" : [
+
+    ],
+    "GoodAsOldPhones" : [
+      "Alamofire"
+    ],
+    "GoodAsOldPhonesTests" : [
+      "GoodAsOldPhones",
+      "Alamofire"
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "writeCommands" : {
+    "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Alamofire.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/AFError.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/DataRequest.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/DataStreamRequest.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/DownloadRequest.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/HTTPHeaders.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/HTTPMethod.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/Notifications.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/ParameterEncoder.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/ParameterEncoding.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/Protected.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/Request.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/RequestTaskMap.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/Response.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/Session.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/SessionDelegate.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/URLConvertible+URLRequestConvertible.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/UploadRequest.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Core/WebSocketRequest.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Extensions/DispatchQueue+Alamofire.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Extensions/OperationQueue+Alamofire.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Extensions/Result+Alamofire.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Extensions/StringEncoding+Alamofire.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Extensions/URLRequest+Alamofire.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Extensions/URLSessionConfiguration+Alamofire.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/AlamofireExtended.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/AuthenticationInterceptor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/CachedResponseHandler.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/Combine.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/Concurrency.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/EventMonitor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/MultipartFormData.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/MultipartUpload.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/NetworkReachabilityManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/RedirectHandler.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/RequestCompression.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/RequestInterceptor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/ResponseSerialization.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/RetryPolicy.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/ServerTrustEvaluation.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/URLEncodedFormEncoder.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/checkouts/Alamofire/Source/Features/Validation.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/DerivedSources/resource_bundle_accessor.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/sources"
+    },
+    "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/AlamofireDynamic.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/AFError.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/Alamofire.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/AlamofireExtended.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/AuthenticationInterceptor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/CachedResponseHandler.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/Combine.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/Concurrency.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/DataRequest.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/DataStreamRequest.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/DispatchQueue+Alamofire.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/DownloadRequest.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/EventMonitor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/HTTPHeaders.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/HTTPMethod.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/MultipartFormData.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/MultipartUpload.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/NetworkReachabilityManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/Notifications.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/OperationQueue+Alamofire.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/ParameterEncoder.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/ParameterEncoding.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/Protected.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/RedirectHandler.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/Request.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/RequestCompression.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/RequestInterceptor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/RequestTaskMap.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/Response.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/ResponseSerialization.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/Result+Alamofire.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/RetryPolicy.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/ServerTrustEvaluation.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/Session.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/SessionDelegate.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/StringEncoding+Alamofire.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/URLConvertible+URLRequestConvertible.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/URLEncodedFormEncoder.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/URLRequest+Alamofire.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/URLSessionConfiguration+Alamofire.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/UploadRequest.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/Validation.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/WebSocketRequest.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/resource_bundle_accessor.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/AlamofireDynamic.product/Objects.LinkFileList"
+    },
+    "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/AppDelegate.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/ContactViewController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/Product.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/ProductViewController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Sources/GoodAsOldPhones/ProductsTableViewController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/DerivedSources/resource_bundle_accessor.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/sources"
+    },
+    "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhonesPackageTests.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/AFError.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/Alamofire.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/AlamofireExtended.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/AuthenticationInterceptor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/CachedResponseHandler.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/Combine.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/Concurrency.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/DataRequest.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/DataStreamRequest.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/DispatchQueue+Alamofire.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/DownloadRequest.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/EventMonitor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/HTTPHeaders.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/HTTPMethod.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/MultipartFormData.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/MultipartUpload.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/NetworkReachabilityManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/Notifications.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/OperationQueue+Alamofire.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/ParameterEncoder.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/ParameterEncoding.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/Protected.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/RedirectHandler.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/Request.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/RequestCompression.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/RequestInterceptor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/RequestTaskMap.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/Response.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/ResponseSerialization.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/Result+Alamofire.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/RetryPolicy.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/ServerTrustEvaluation.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/Session.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/SessionDelegate.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/StringEncoding+Alamofire.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/URLConvertible+URLRequestConvertible.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/URLEncodedFormEncoder.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/URLRequest+Alamofire.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/URLSessionConfiguration+Alamofire.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/UploadRequest.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/Validation.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/WebSocketRequest.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/Alamofire.build/resource_bundle_accessor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/AppDelegate.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/ContactViewController.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/Product.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/ProductViewController.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/ProductsTableViewController.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhones.build/resource_bundle_accessor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhonesTests.build/GoodAsOldPhonesTests.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhonesPackageTests.product/Objects.LinkFileList"
+    },
+    "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhonesTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/Tests/GoodAsOldPhonesTests/GoodAsOldPhonesTests.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/GoodAsOldPhonesTests.build/sources"
+    },
+    "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/swift-version-33747A42983211AE.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/Xcode-15.4.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/abdulhakam/Desktop/Project 01 - GoodAsOldPhones copy/.build/arm64-apple-macosx/debug/swift-version-33747A42983211AE.txt"
+    }
+  }
+}
