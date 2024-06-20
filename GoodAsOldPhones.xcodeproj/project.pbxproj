@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		036591343992ABB67C39B346 /* Pods_GoodAsOldPhones.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 668391AEBD9F058EFABE31C0 /* Pods_GoodAsOldPhones.framework */; };
 		19155F491C6AB48B00644FDF /* ContactViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19155F481C6AB48B00644FDF /* ContactViewController.swift */; };
 		19155F4B1C6C58FA00644FDF /* ProductsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19155F4A1C6C58FA00644FDF /* ProductsTableViewController.swift */; };
 		19155F4D1C6DA38100644FDF /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19155F4C1C6DA38100644FDF /* Product.swift */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		15FEB808CDCCCF3CC07F871F /* Pods-GoodAsOldPhones.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GoodAsOldPhones.release.xcconfig"; path = "Target Support Files/Pods-GoodAsOldPhones/Pods-GoodAsOldPhones.release.xcconfig"; sourceTree = "<group>"; };
 		19155F481C6AB48B00644FDF /* ContactViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContactViewController.swift; sourceTree = "<group>"; };
 		19155F4A1C6C58FA00644FDF /* ProductsTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProductsTableViewController.swift; sourceTree = "<group>"; };
 		19155F4C1C6DA38100644FDF /* Product.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
@@ -33,6 +35,8 @@
 		197C21191C6686EF00BCCAE8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		49B56B4A2C215DF700062D55 /* GoodAsOldPhonesTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoodAsOldPhonesTests.swift; sourceTree = "<group>"; };
 		49B56B4E2C216FBA00062D55 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Platforms/iPhoneOS.platform/Developer/Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		668391AEBD9F058EFABE31C0 /* Pods_GoodAsOldPhones.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GoodAsOldPhones.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		EA164BAAE113B64BA1019834 /* Pods-GoodAsOldPhones.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GoodAsOldPhones.debug.xcconfig"; path = "Target Support Files/Pods-GoodAsOldPhones/Pods-GoodAsOldPhones.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +46,7 @@
 			files = (
 				49B56B4F2C216FBA00062D55 /* XCTest.framework in Frameworks */,
 				49B56B462C2129AD00062D55 /* ArgumentParser in Frameworks */,
+				036591343992ABB67C39B346 /* Pods_GoodAsOldPhones.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -55,6 +60,7 @@
 				49B56B482C213F4E00062D55 /* Sources */,
 				197C210B1C6686EE00BCCAE8 /* Products */,
 				49B56B4D2C216FBA00062D55 /* Frameworks */,
+				B2D7CEE3E470D47E20ADE1AB /* Pods */,
 			);
 			sourceTree = "<group>";
 		};
@@ -110,8 +116,18 @@
 			isa = PBXGroup;
 			children = (
 				49B56B4E2C216FBA00062D55 /* XCTest.framework */,
+				668391AEBD9F058EFABE31C0 /* Pods_GoodAsOldPhones.framework */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		B2D7CEE3E470D47E20ADE1AB /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				EA164BAAE113B64BA1019834 /* Pods-GoodAsOldPhones.debug.xcconfig */,
+				15FEB808CDCCCF3CC07F871F /* Pods-GoodAsOldPhones.release.xcconfig */,
+			);
+			path = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -121,9 +137,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 197C211C1C6686EF00BCCAE8 /* Build configuration list for PBXNativeTarget "GoodAsOldPhones" */;
 			buildPhases = (
+				815771E4990297EECAA68D29 /* [CP] Check Pods Manifest.lock */,
 				197C21061C6686EE00BCCAE8 /* Sources */,
 				197C21071C6686EE00BCCAE8 /* Frameworks */,
 				197C21081C6686EE00BCCAE8 /* Resources */,
+				206D443BBA97AE88AC3ED938 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -187,6 +205,49 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		206D443BBA97AE88AC3ED938 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-GoodAsOldPhones/Pods-GoodAsOldPhones-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/Kingfisher/Kingfisher.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Kingfisher.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-GoodAsOldPhones/Pods-GoodAsOldPhones-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		815771E4990297EECAA68D29 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-GoodAsOldPhones-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		197C21061C6686EE00BCCAE8 /* Sources */ = {
@@ -257,6 +318,10 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Pods",
+				);
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -271,7 +336,15 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Pods",
+				);
 				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+				LIBRARY_SEARCH_PATHS = (
+					"$(PROJECT_DIR)/Pods",
+					"$(inherited)",
+				);
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				PROVISIONING_PROFILE_SPECIFIER = com.bitsmedia.GoodAsOldPhones;
@@ -314,6 +387,10 @@
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Pods",
+				);
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
@@ -322,7 +399,15 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Pods",
+				);
 				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+				LIBRARY_SEARCH_PATHS = (
+					"$(PROJECT_DIR)/Pods",
+					"$(inherited)",
+				);
 				MTL_ENABLE_DEBUG_INFO = NO;
 				PROVISIONING_PROFILE_SPECIFIER = com.bitsmedia.GoodAsOldPhones;
 				SDKROOT = iphoneos;
@@ -335,6 +420,7 @@
 		};
 		197C211D1C6686EF00BCCAE8 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = EA164BAAE113B64BA1019834 /* Pods-GoodAsOldPhones.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "Apple Development";
@@ -354,6 +440,7 @@
 		};
 		197C211E1C6686EF00BCCAE8 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 15FEB808CDCCCF3CC07F871F /* Pods-GoodAsOldPhones.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "Apple Development";
