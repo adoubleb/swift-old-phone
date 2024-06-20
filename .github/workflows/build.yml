@@ -55,7 +55,7 @@ jobs:
     - name: Show current version of Xcode
       run: xcodebuild -version
     - name: Run build
-      run: xcodebuild -allowProvisioningUpdates
+      run: xcodebuild -workspace GoodAsOldPhones.xcworkspace -scheme GoodAsOldPhones -configuration Release clean build
     - name: Clean up keychain and provisioning profile
       if: ${{ always() }}
       run: |
