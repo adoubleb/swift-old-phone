@@ -56,14 +56,14 @@ jobs:
       run: xcodebuild -version
     - name: Clean Derived Data
       run: rm -rf ~/Library/Developer/Xcode/DerivedData
-    - name: Install Fastlane
-      run: |
-          gem install bundler
-          bundle install
-          bundle exec fastlane install_plugins
-    - name: Build with Fastlane
-      run: |
-        bundle exec fastlane custom_build
+    - uses: actions/checkout@v3
+    - uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '3.0'
+        bundler-cache: true
+    - uses: maierj/fastlane-action@v3.1.0
+      with:
+        lane: 'custom_build'
     - name: Clean up keychain and provisioning profile
       if: ${{ always() }}
       run: |
