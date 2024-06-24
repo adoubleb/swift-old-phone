@@ -1,0 +1,21 @@
+# Fastfile
+
+default_platform(:ios)
+
+platform :ios do
+  # Custom build lane using xcodebuild with the specified parameters
+  desc "Custom build using xcodebuild"
+  lane :custom_build do
+    setup_ci if ENV['CI']
+    xcbuild(
+      workspace: "GoodAsOldPhones.xcworkspace",
+      scheme: "GoodAsOldPhones",
+      configuration: "Release",
+      actions: [
+        "clean",
+        "build"
+      ]
+    )
+  end
+end
+
