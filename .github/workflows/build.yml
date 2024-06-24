@@ -47,15 +47,23 @@ jobs:
           # apply provisioning profile
           mkdir -p ~/Library/MobileDevice/Provisioning\ Profiles
           cp $PP_PATH ~/Library/MobileDevice/Provisioning\ Profiles
-    
-    - name: List available Xcode versions
-      run: ls /Applications | grep Xcode
+
+    #run sudo bundle install
+   
     - name: Set up Xcode version
       run: sudo xcode-select -s /Applications/Xcode_15.4.app/Contents/Developer
     - name: Show current version of Xcode
       run: xcodebuild -version
-    - name: Run build
-      run: xcodebuild -allowProvisioningUpdates
+    - name: Clean Derived Data
+      run: rm -rf ~/Library/Developer/Xcode/DerivedData
+    - name: Install Fastlane
+      run: |
+          gem install bundler
+          bundle install
+          bundle exec fastlane install_plugins
+    - name: Build with Fastlane
+      run: |
+        bundle exec fastlane custom_build
     - name: Clean up keychain and provisioning profile
       if: ${{ always() }}
       run: |
