@@ -47,7 +47,7 @@ jobs:
           security unlock-keychain -p "" ~/Library/Keychains/build.keychain
           security set-key-partition-list -S apple-tool:,apple: -s -k "" ~/Library/Keychains/build.keychain
         env:
-          CERTIFICATE_PASSWORD: ${{ secrets.CERTIFICATE_PASSWORD }}
+          CERTIFICATE_PASSWORD: ${{ secrets.P12_PASSWORD }}
 
       - name: Build with Fastlane
         run: bundle exec fastlane custom_build
