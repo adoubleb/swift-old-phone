@@ -52,8 +52,3 @@ jobs:
       run: xcodebuild -version
     - name: Run build
       run: xcodebuild -allowProvisioningUpdates
-    - name: Clean up keychain and provisioning profile
-      if: ${{ always() }}
-      run: |
-        security delete-keychain $RUNNER_TEMP/app-signing.keychain-db
-        rm ~/Library/MobileDevice/Provisioning\ Profiles/build_pp.mobileprovision
