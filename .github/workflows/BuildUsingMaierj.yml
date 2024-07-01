@@ -13,11 +13,11 @@ jobs:
     runs-on: macos-latest
 
     steps:
-      - name: List available Ruby versions
-        run: rbenv install -l
-
       - name: Checkout repository
         uses: actions/checkout@v2
+
+      - name: List available Ruby versions
+        run: rbenv install -l
 
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
