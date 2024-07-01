@@ -1,4 +1,4 @@
-name: BuildMaierj
+name: BuildNew
 
 on:
   push:
@@ -17,9 +17,9 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Set up Ruby
-        uses: actions/setup-ruby@v1
+        uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.0'
+          ruby-version: 'latest'
 
       - name: Install dependencies
         run: |
