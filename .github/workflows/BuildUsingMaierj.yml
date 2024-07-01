@@ -1,4 +1,4 @@
-name: BuildNew
+name: iOS CI
 
 on:
   push:
@@ -13,13 +13,16 @@ jobs:
     runs-on: macos-latest
 
     steps:
+      - name: List available Ruby versions
+        run: rbenv install -l
+
       - name: Checkout repository
         uses: actions/checkout@v2
 
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 'latest'
+          ruby-version: '3.1'
 
       - name: Install dependencies
         run: |
